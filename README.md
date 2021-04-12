@@ -1,2 +1,3 @@
 # seedLab
-SEED Lab
+
+The folders are implementations of SEED Labs. Others are miscellaneous implementations.
